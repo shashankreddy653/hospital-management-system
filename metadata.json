@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare Command Center",
+  "description": "Hospital operational command center providing real-time capacity telemetry, predictive intake forecasting, and clinical decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
